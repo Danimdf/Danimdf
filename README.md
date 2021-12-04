@@ -9,7 +9,7 @@
 ###### About me :rose:
   - I'm student at Ecole 42 São Paulo
   - Learning Elixir 
-  - And last reading: A Tale of Two Cities-Charles Dickens
+  - And last reading: Atomic Habits
      
   <br>      
         
