@@ -1,7 +1,7 @@
 ## <div align="center"> Hi Dev :cherry_blossom: :milky_way: </div> 
 
 <div style="display: flex;" align="center">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"</a> &nbsp
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a> &nbsp
 </div>    
 
 ###### About me :rose:
