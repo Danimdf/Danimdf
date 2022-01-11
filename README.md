@@ -6,7 +6,7 @@
 
 ###### About me :rose:
   - I'm student at Ecole 42 São Paulo
-  - Working: [Pipex](https://github.com/Danimdf/Pipex) 
+  - Working: [Push-Swap](https://github.com/Danimdf/Push_Swap) 
   - And last reading: Atomic Habits
      
   <br>      
