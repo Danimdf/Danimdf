@@ -1,7 +1,10 @@
 ## <div align="center"> Hi Dev :cherry_blossom: :milky_way: </div> 
 
 <div style="display: flex;" align="center">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a> &nbsp
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a> &nbsp
+    <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a> &nbsp
+    <a href="https://elixir-lang.org/"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a> &nbsp
+    <a href="https://www.java.com/pt-BR/download/help/whatis_java.html"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a> &nbsp
 </div>    
 
 ###### About me :rose:
