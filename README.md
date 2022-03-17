@@ -10,7 +10,7 @@
 
 ###### About me :rose:
   - I'm student at Ecole 42 São Paulo
-  - Working: [Push-Swap](https://github.com/Danimdf/Push_Swap) 
+  - Working: [Minishell](https://github.com/lamorim42/minishell) with [lamorim42](https://github.com/lamorim42) :technologist:
   - And last reading: This Is How They Tell Me the World Ends by Nicole Perlroth.
   - Now enrolled in computer science at University Estácio de Sá :tipping_hand_woman: 
      
