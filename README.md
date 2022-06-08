@@ -6,12 +6,14 @@
     <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a> &nbsp
     <a href="https://elixir-lang.org/"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a> &nbsp
     <a href="https://www.java.com/pt-BR/download/help/whatis_java.html"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a> &nbsp
+    <a href="https://docs.microsoft.com/pt-br/dotnet/core/introduction"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a> &nbsp
+    <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a> &nbsp
+    
 </div>    
 
 ###### About me :rose:
   - I'm student at Ecole 42 São Paulo
   - Working: [Minishell](https://github.com/lamorim42/minishell) with [lamorim42](https://github.com/lamorim42) :technologist:
-  - And last reading: This Is How They Tell Me the World Ends by Nicole Perlroth.
   - Now enrolled in computer science at University Estácio de Sá :tipping_hand_woman: 
      
   <br>      
