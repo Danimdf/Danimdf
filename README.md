@@ -13,7 +13,7 @@
 
 ###### About me :rose:
   - I'm student at Ecole 42 São Paulo
-  - Working: [Minishell](https://github.com/lamorim42/minishell) with [lamorim42](https://github.com/lamorim42) :technologist:
+  - Working: [Philosophers](https://github.com/Danimdf/Philosophers) :technologist:
   - Now enrolled in computer science at University Estácio de Sá :tipping_hand_woman: 
      
   <br>      
