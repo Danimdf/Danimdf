@@ -13,7 +13,7 @@
 
 ###### About me :rose:
   - I'm student at Ecole 42 São Paulo
-  - Working: [Philosophers](https://github.com/Danimdf/Philosophers) :technologist:
+  - Working: [NetPratice](https://github.com/Danimdf/Net_pratice) :technologist:
   - Now enrolled in computer science at University Estácio de Sá :tipping_hand_woman: 
      
   <br>      
