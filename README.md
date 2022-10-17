@@ -13,7 +13,7 @@
 
 ###### About me :rose:
   - I'm student at Ecole 42 São Paulo
-  - Working: [NetPratice](https://github.com/Danimdf/Net_pratice) :technologist:
+  - Working: [Cub3D](https://github.com/pacorocha/cub3d) with [Paco](https://github.com/pacorocha) :technologist:
   - Now enrolled in computer science at University Estácio de Sá :tipping_hand_woman: 
      
   <br>      
