@@ -62,12 +62,15 @@
 ###### About me :rose:
   - I'm student at Ecole 42 São Paulo
   - Working: [CPP](https://github.com/Danimdf/cpp) :technologist:
-  - Now enrolled in computer science at University Estácio de Sá :tipping_hand_woman: 
+  - I'm FullStack :tipping_hand_woman: 
      
   <br>      
-        
-[![Danimdf GitHub stats](https://github-readme-stats.vercel.app/api?username=Danimdf&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/Danimdf?tab=repositories) | [![Danimdf most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danimdf&layout=compact&hide_border=true&theme=radical)](https://github.com/Danimdf?tab=repositories) |
-|:-:|:-:|
-<p align="center">
-    <img src="https://i.pinimg.com/originals/94/69/f6/9469f63cb17b971a97b02a54c0e5a962.gif" alt="animated"/>
-</p>
+
+<div align="center">
+    
+[![Danimdf GitHub stats](https://github-readme-stats.vercel.app/api?username=Danimdf&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/Danimdf?tab=repositories)
+[![Danimdf most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danimdf&layout=compact&hide_border=true&theme=radical)](https://github.com/Danimdf?tab=repositories)
+
+<img src="https://i.pinimg.com/originals/94/69/f6/9469f63cb17b971a97b02a54c0e5a962.gif" alt="animated"/>
+
+</div>
