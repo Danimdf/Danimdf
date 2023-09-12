@@ -61,7 +61,7 @@
 
 ###### About me :rose:
   - I'm student at Ecole 42 São Paulo
-  - Working: [CPP](https://github.com/Danimdf/cpp) :technologist:
+  - Working: [inception](https://github.com/Danimdf/inception) :technologist:
   - I'm FullStack :tipping_hand_woman: 
      
   <br>      
